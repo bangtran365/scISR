@@ -1,0 +1,5 @@
+data(scISRExample)
+imputed <- scISR(data = scISRExample$dropout)
+plotscISR(scISRExample$raw, label = scISRExample$celltype)
+plotscISR(scISRExample$dropout, label = scISRExample$celltype)
+plotscISR(imputed, label = scISRExample$celltype)

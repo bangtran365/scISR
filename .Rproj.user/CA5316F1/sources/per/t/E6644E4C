@@ -1,0 +1,24 @@
+{
+    "id": "E6644E4C",
+    "path": "D:/Code/scISR/R/PerturbationClustering.R",
+    "project_path": "R/PerturbationClustering.R",
+    "type": "r_source",
+    "hash": "2571521721",
+    "contents": "",
+    "dirty": false,
+    "created": 1611033656382.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "20,43",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1611033668,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611033668476,
+    "read_only": false,
+    "read_only_alternatives": []
+}
