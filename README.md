@@ -3,7 +3,7 @@ scISR performs imputation for single-cell sequencing data. scISR identifies the 
 # How to install  
 - The package can be installed from this repository.  
 - Install devtools: `utils::install.packages('devtools')`  
-- Install the package using: `devtools::install_github('/scISR')`  
+- Install the package using: `devtools::install_github('bangtran365/scISR')`  
 # Example   
 - Load the sample dataset scISRExample: `data(scISRExample)`  
 - Perform the : `imputed <- scISR(data = scISRExample$dropout)`  
